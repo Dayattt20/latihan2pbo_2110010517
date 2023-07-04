@@ -1,8 +1,7 @@
 package Kampus;
 
 public class Dosenberaksi {
-    
-public static void main(String[] args){
+    public static void main(String[] args){
             
 Dosen datadiri = new Dosen("2110010517", "Muhammad Miftah Hidayat", " PBO");
        
@@ -13,3 +12,4 @@ Dosen datadiri = new Dosen("2110010517", "Muhammad Miftah Hidayat", " PBO");
     System.out.println(datadiri.setDetail());
 }
 }
+    
